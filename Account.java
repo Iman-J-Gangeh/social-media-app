@@ -1,5 +1,3 @@
-package socialMediaFinal;
-
 import java.util.Scanner;
 
 import lists.AList;
